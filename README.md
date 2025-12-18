@@ -20,7 +20,7 @@
 
 4. Enter Recovery Mode & Open Safari.
 
-5. Navigate to https://www.github.com/assafdori/bypass-mdm
+5. Navigate to https://www.github.com/daksen/pass-mdm
 
 6. Copy the script below:
 
