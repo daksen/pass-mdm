@@ -1,9 +1,5 @@
 #!/bin/bash
 
-# Display header
-echo -e "Pass MDM"
-echo ""
-
 # Prompt user for choice
 PS3='Please enter your choice: '
 options=("Bypass MDM from Recovery" "Reboot & Exit")
